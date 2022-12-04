@@ -1,6 +1,6 @@
 # Online Code Editor
  This project is clone of codepen online editor
- ### Site : `[Online Code Editor](url)(https://638c3e0ecdadd24b454a88ed--phenomenal-haupia-a2121c.netlify.app/)`
+ ### Site : [Online Code Editor](https://638c3e0ecdadd24b454a88ed--phenomenal-haupia-a2121c.netlify.app/)
 ## Tech Used
  1. HTML
  2. CSS
