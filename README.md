@@ -29,7 +29,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  2. To render a web page within another web page an iframe element is used
  3. It is recommended to use the codemirror package for this component so that you can have controlled usage for the code editor which will then help in controlling your input/output values and event handlers. So, import the code-editor (Controlled) component from the react-codemirror2 package
  4. A cutom hook "useLocalStorage" is used to keep the data stored in local storage
- 5. Site is deployed using Netlify
+ 5. Site is deployed using Netlify.
+ 6. Pressing on Delete icon will reset all your saved code.
+ 7. Resize Button in corner can be used to expand or collapse the respective panes.
  
 ## Available Scripts
 
