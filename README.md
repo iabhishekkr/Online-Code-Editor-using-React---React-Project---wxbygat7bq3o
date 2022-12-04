@@ -1,6 +1,6 @@
 # Online Code Editor
-This project is clone of codepen online editor
-
+ This project is clone of codepen online editor
+ ### Site : `https://638c3e0ecdadd24b454a88ed--phenomenal-haupia-a2121c.netlify.app/`
 ## Tech Used
  1. HTML
  2. CSS
@@ -24,6 +24,13 @@ This project is clone of codepen online editor
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
+ 1. There are two panes in this code editor- One where the code is run (upper half of the app that contains the three code containers) and the other where the output is displayed (lower half ‘result’ code window)
+ 2. To render a web page within another web page an iframe element is used
+ 3. It is recommended to use the codemirror package for this component so that you can have controlled usage for the code editor which will then help in controlling your input/output values and event handlers. So, import the code-editor (Controlled) component from the react-codemirror2 package
+ 4. A cutom hook "useLocalStorage" is used to keep the data stored in local storage
+ 5. Site is deployed using Netlify
+ 
 ## Available Scripts
 
 In the project directory, you can run:
