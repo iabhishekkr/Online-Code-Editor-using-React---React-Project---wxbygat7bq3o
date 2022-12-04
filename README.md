@@ -1,12 +1,12 @@
-## Online Code Editor
+# Online Code Editor
 This project is clone of codepen online editor
 
-# Tech Used
+## Tech Used
  1. HTML
  2. CSS
  3. JavaScript
  4. React
-# Dependencies Used
+## Dependencies Used
   "@fortawesome/fontawesome-svg-core": "^1.2.31" <br />
   "@fortawesome/free-brands-svg-icons": "^5.15.0" <br />
   "@fortawesome/free-solid-svg-icons": "^5.15.0" <br />
@@ -21,10 +21,10 @@ This project is clone of codepen online editor
   "react-scripts": "3.4.3" <br />
   
   *(Do not use latest version of react and react-dom as it may conflit with react-codemirror2)
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-# Available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 
