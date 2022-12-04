@@ -7,17 +7,17 @@ This project is clone of codepen online editor
  3. JavaScript
  4. React
 # Dependencies Used
-  "@fortawesome/fontawesome-svg-core": "^1.2.31",
-  "@fortawesome/free-brands-svg-icons": "^5.15.0",
-  "@fortawesome/free-solid-svg-icons": "^5.15.0",
-  "@fortawesome/react-fontawesome": "^0.1.11",
-  "@testing-library/jest-dom": "^4.2.4",
-  "@testing-library/react": "^9.5.0",
-  "@testing-library/user-event": "^7.2.1",
-  "codemirror": "^5.58.1",
-  "react": "^16.13.1",
-  "react-codemirror2": "^7.2.1",
-  "react-dom": "^16.13.1",
+  "@fortawesome/fontawesome-svg-core": "^1.2.31"
+  "@fortawesome/free-brands-svg-icons": "^5.15.0"
+  "@fortawesome/free-solid-svg-icons": "^5.15.0"
+  "@fortawesome/react-fontawesome": "^0.1.11"
+  "@testing-library/jest-dom": "^4.2.4"
+  "@testing-library/react": "^9.5.0"
+  "@testing-library/user-event": "^7.2.1"
+  "codemirror": "^5.58.1"
+  "react": "^16.13.1"
+  "react-codemirror2": "^7.2.1"
+  "react-dom": "^16.13.1"
   "react-scripts": "3.4.3"
   
   *(Do not use latest version of react and react-dom as it may conflit with react-codemirror2)
